@@ -25,7 +25,6 @@ I'm a web development enthusiast, server studies, and I'm starting a scientific 
  - GitKraken
  - Fillezila
  - NGINX (1.18)
-
 <!-- [![afaferz](https://github-readme-stats.vercel.app/api/top-langs/?username=afaferz&hide=html&layout=compact&theme=dracula)](https://github.com/afaferz/) -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=555
