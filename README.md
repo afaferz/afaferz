@@ -1,5 +1,5 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url] [![website][website-shield]][website-url] 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ___
 ## Welcome everyone 💙 🎴
 
@@ -30,7 +30,6 @@ I'm a web development enthusiast, server studies, and I'm starting a scientific 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/afaferz/
 [website-shield]: https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=html5&logoColor=FFF&colorB=555
-[website-url]: https://afaferz.ml/
 <br />
 
 ## 📫 How to reach me
