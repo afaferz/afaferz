@@ -3,7 +3,7 @@
 ___
 ## Welcome everyone 💙 🎴
 
-Hello, my name is Ferraz and I'm a graduating in Philosophy for `Universidade de Brasília (UnB)` who loves programming and Open Source. 
+Hello, my name is Ferraz and I'm a graduating in Philosophy for 'Universidade de Brasília (UnB)' who loves programming and Open Source. 
 
 I'm a frontend dev but i'm studying to be a fullstack dev (in PHP)
 
