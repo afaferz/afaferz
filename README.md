@@ -30,5 +30,5 @@ I'm a frontend dev but i'm studying to be a fullstack dev (in PHP)
 <br />
 
 ## 📫 How to reach me
-U can send me a e-mail start, send me a message on [LinkedIn][linkedin-url] or a smoke signal too 🌬 hehehe </br>
-Anyone I will respond the most faster with I can :D
+U can send me a message on [LinkedIn][linkedin-url]</br>
+I will respond the most faster with I can :D
