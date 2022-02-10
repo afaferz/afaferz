@@ -3,28 +3,25 @@
 ___
 ## Welcome everyone 💙 🎴
 
-Hello, my name is Ferraz and I'm a graduating in Philosophy for Universidade de Brasília (UnB) who love programming and Open Source. 
+Hello, my name is Ferraz and I'm a graduating in Philosophy for `Universidade de Brasília (UnB)` who loves programming and Open Source. 
 
-I'm a web development enthusiast, server studies, and I'm starting a scientific project on Blaise Pascal's mathematical algorithms and their applications in computing - por isto assino todos meus projetos com "Filosofia" rsrs 😆
-
+I'm a frontend developer in VueJS, ReactJS and studyng Django :D
 
 ### 🐙 My skills
  - HTML5
  - CSS 3
- - JS
- - Sass
- - Bootstrap v3+
- - Gulp v3.9+
- - Linux (Ubuntu 20.04 LTS)
- - Node.js (in progress)
- - Vue.js (in progress)
+ - Javascript
+ - Sass/Less/Stylus
+ - VueJS / NuxtJS
+ - Vuetify
+ - ReactJS / NextJS
+ - Typescript
  
 ### 🔩 My tools
  - VS Code
  - Git & GitHub
- - GitKraken
- - Fillezila
  - NGINX (1.18)
+ - Backbox (Linux)
 <!-- [![afaferz](https://github-readme-stats.vercel.app/api/top-langs/?username=afaferz&hide=html&layout=compact&theme=dracula)](https://github.com/afaferz/) -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=555
