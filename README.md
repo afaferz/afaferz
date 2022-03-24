@@ -1,5 +1,3 @@
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 ___
 ## Welcome everyone 💙 🎴
 
@@ -24,10 +22,11 @@ I'm a frontend dev but i'm studying to be a fullstack dev (in PHP and Golang)
  - Backbox (Linux)
 <!-- [![afaferz](https://github-readme-stats.vercel.app/api/top-langs/?username=afaferz&hide=html&layout=compact&theme=dracula)](https://github.com/afaferz/) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaferz&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaferz&theme=tokyonight) -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/afaferz/
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <br />
 
 ## 📫 How to reach me
